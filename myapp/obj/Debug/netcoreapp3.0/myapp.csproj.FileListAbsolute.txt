@@ -1,0 +1,11 @@
+c:\Code\CoreDemo\myapp\bin\Debug\netcoreapp3.0\myapp.exe
+C:\Code\CoreDemo\myapp\bin\Debug\netcoreapp3.0\myapp.deps.json
+C:\Code\CoreDemo\myapp\bin\Debug\netcoreapp3.0\myapp.runtimeconfig.json
+C:\Code\CoreDemo\myapp\bin\Debug\netcoreapp3.0\myapp.runtimeconfig.dev.json
+c:\Code\CoreDemo\myapp\bin\Debug\netcoreapp3.0\myapp.dll
+c:\Code\CoreDemo\myapp\bin\Debug\netcoreapp3.0\myapp.pdb
+c:\Code\CoreDemo\myapp\obj\Debug\netcoreapp3.0\myapp.csprojAssemblyReference.cache
+c:\Code\CoreDemo\myapp\obj\Debug\netcoreapp3.0\myapp.AssemblyInfoInputs.cache
+c:\Code\CoreDemo\myapp\obj\Debug\netcoreapp3.0\myapp.AssemblyInfo.cs
+c:\Code\CoreDemo\myapp\obj\Debug\netcoreapp3.0\myapp.dll
+c:\Code\CoreDemo\myapp\obj\Debug\netcoreapp3.0\myapp.pdb
